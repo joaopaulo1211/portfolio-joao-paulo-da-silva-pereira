@@ -1,0 +1,27 @@
+🔳 QRCODE CHANGE
+📝 Descrição do Projeto
+Este projeto consiste em um gerador de QR codes profissional com backgrounds estéticos gerados por inteligência artificial. O objetivo principal é permitir que o usuário crie QR codes altamente personalizados — com cores, estilos, logos e fundos gerados por IA a partir de um prompt de "vibe" —, podendo salvar e rever seu histórico de QR codes gerados.
+Desenvolvido com React + TypeScript + Vite, o sistema integra a API Gemini AI para geração de backgrounds, Firebase para autenticação e armazenamento, e a biblioteca qrcode.react para renderização dos QR codes em canvas ou SVG.
+Figura 1: Dashboard principal do sistema exibindo o gerador de QR codes com background gerado por IA.
+🚀 Tecnologias Utilizadas
+
+Linguagem: TypeScript
+Bibliotecas: React 19, qrcode.react, lucide-react, motion, @google/genai
+Ferramentas: Vite, Tailwind CSS, Firebase (Auth + Firestore), Google AI Studio
+
+📊 Resultados e Aprendizados
+O projeto entrega uma experiência completa de geração e gerenciamento de QR codes com IA integrada.
+
+Geração de backgrounds com IA: O usuário descreve uma "vibe" em texto e a API Gemini gera uma imagem de fundo personalizada para o QR code.
+Personalização avançada: É possível configurar cores, tamanho, nível de correção de erro, estilo (quadrados ou pontos), margem e logo central.
+Histórico autenticado: QR codes salvos ficam armazenados no Firestore vinculados à conta do usuário via Firebase Auth.
+
+Figura 2: Painel de configurações e prévia do QR code com background gerado.
+🔧 Como Executar
+
+Clone o repositório.
+Instale as dependências: npm install.
+Configure a variável GEMINI_API_KEY no arquivo .env.local.
+Execute o comando: npm run dev.
+
+Figura 3: Representação visual do pipeline — entrada de texto → Gemini AI → QR code com background gerado.
