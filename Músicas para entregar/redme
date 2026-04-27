@@ -1,0 +1,72 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=🎵%20Projeto%20Musical&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Uma%20coleção%20de%20composições%20originais&descSize=16&descAlignY=58&descColor=c9b8ff" />
+</p>
+<p align="center">
+  <a href="https://github.com/joaopaulo1211">
+    <img src="https://img.shields.io/badge/Autor-joaopaulo1211silva-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Faixas-4-a855f7?style=for-the-badge&logo=musicbrainz&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Criado%20com-Suno%20AI-6d28d9?style=for-the-badge&logo=audacity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data-Abril%202026-4f46e5?style=for-the-badge&logo=google-calendar&logoColor=white"/>
+</p>
+
+🎧 Sobre o Projeto
+Uma coleção de 4 composições originais criadas em uma única sessão criativa no dia 13 de abril de 2026, utilizando a plataforma Suno AI. As músicas exploram temas como tempo, existência, contemplação e escolha — unidas por uma estética introspectiva e atmosférica.
+
+🎼 Tracklist
+#TítuloDuraçãoFormatoSample Rate01🌅 Pôr do Sol Eterno4:38MP3 · 184 kbps48 kHz · Stereo02🌑 Sombras do Arbítrio4:56MP3 · 184 kbps48 kHz · Stereo03✨ Ecos da Eternidade4:32MP3 · 188 kbps48 kHz · Stereo04🌌 Estrelas Desconectadas4:36MP3 · 187 kbps48 kHz · Stereo
+
+Duração total: ~18m 42s
+
+
+🎵 Faixas
+🌅 01 — Pôr do Sol Eterno
+
+A primeira faixa da sessão. Um título que evoca contemplação, transição e beleza efêmera — o instante em que a luz dá lugar à noite.
+
+
+🌑 02 — Sombras do Arbítrio
+
+A mais longa da coleção (4:56). Arbítrio remete à escolha e à liberdade — e as sombras sugerem o peso que essas decisões carregam.
+
+
+✨ 03 — Ecos da Eternidade
+
+Ecos que persistem além do tempo. Uma composição que convida à reflexão sobre o que fica e o que se perde.
+
+
+🌌 04 — Estrelas Desconectadas
+
+A última faixa da noite. Estrelas distantes, sem fio que as una — uma metáfora para isolamento, distância ou fragmentação.
+
+
+🛠 Detalhes Técnicos
+PropriedadeValorPlataforma de criaçãoSuno AIFormato de exportaçãoMP3Bitrate médio~186 kbpsSample Rate48.000 HzCanaisStereoData de criação13 de abril de 2026
+
+📁 Estrutura do Repositório
+📂 projeto-musical/
+├── 🎵 Pôr_do_Sol_Eterno.mp3
+├── 🎵 Sombras_do_Arbítrio.mp3
+├── 🎵 Ecos_da_Eternidade.mp3
+├── 🎵 Estrelas_Desconectadas.mp3
+└── 📄 README.md
+
+👤 Autor
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaopauloprofissional/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/joaopaulo1211">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:joaopaulo1211silva@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Criado com imaginação e tecnologia. 🎶</i>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+</p>
