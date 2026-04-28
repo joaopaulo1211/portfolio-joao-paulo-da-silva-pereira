@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=João%20Paulo%20Silva%20Pereira&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Developer&descSize=15&descAlignY=58&descColor=a0c4d8" />
-</p>
 
 # João Paulo Silva Pereira
 > Estudante de Ciência da Computação — UNICID
