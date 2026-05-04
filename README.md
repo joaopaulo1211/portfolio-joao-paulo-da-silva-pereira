@@ -54,7 +54,7 @@ Atualmente cursando o 2º semestre de Ciência da Computação na UNICID. Tenho 
 | :--- | :--- | :---: |
 | Projeto Bubble — Aplicativo de Delivery | Descrição | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/blob/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto%20%20bubble%20%20aplicativo%20%20de%20%20delivery/README.md) |
 | criar Música com IA | Descrição | [Ver Projeto](https://github.com/joaopaulo1211/Portif-lio-Jo-o-Paulo/tree/main/projeto%20-%20criar%20-%20m%C3%BAsica%20-%20com%20-%20ia) |
-| projeto site qr code | Descrição | [Ver Projeto]([https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto%20%20site%20qr%20code)) |
+| projeto site qr code | Descrição | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto%20%20site%20qr%20code) |
 | projeto batalha de modelos | Descrição | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto%20batalha%20de%20modelos) |
 | projeto treinamento de ia | Descrição | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto%20%20treinamento%20de%20ia) |
 | projeto aplicativo mobile inspecionai | Descrição | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/aplicativo%20inspecionai) |
