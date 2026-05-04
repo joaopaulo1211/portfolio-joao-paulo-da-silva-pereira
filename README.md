@@ -82,3 +82,4 @@ Atualmente cursando o 2º semestre de Ciência da Computação na UNICID. Tenho 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
+](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto%20%20site%20qr%20code)
