@@ -399,3 +399,5 @@ Para suporte técnico, dúvidas ou reportar bugs:
 **Versão**: 1.0.0  
 **Data de Lançamento**: Maio de 2026  
 **Desenvolvido por**: Manus AI
+
+Link : https://manus.im/app-preview/bJRUQzJ77qqQWkRMs4sFEp?sessionId=2yTrQWoWkLSyHbNCVgCIDx
