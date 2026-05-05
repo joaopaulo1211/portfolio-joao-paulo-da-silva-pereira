@@ -53,22 +53,14 @@ Atualmente cursando o 2º semestre de Ciência da Computação na UNICID. Tenho 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | Projeto Bubble — Aplicativo de Delivery | Descrição | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/blob/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto%20%20bubble%20%20aplicativo%20%20de%20%20delivery/README.md) |
-| criar Música com IA | Descrição | [Ver Projeto](https://github.com/joaopaulo1211/Portif-lio-Jo-o-Paulo/tree/main/projeto%20-%20criar%20-%20m%C3%BAsica%20-%20com%20-%20ia) |
-| projeto site qr code | Descrição | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto%20%20site%20qr%20code) |
-| projeto batalha de modelos | Descrição | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto%20batalha%20de%20modelos) |
-| projeto treinamento de ia | Descrição | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto%20%20treinamento%20de%20ia) |
-| projeto aplicativo mobile inspecionai | Descrição | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/aplicativo%20inspecionai) |
+| Criar Música com IA | Criamos músicas com IA na inteligência artificial Suno | [Ver Projeto](https://github.com/joaopaulo1211/Portif-lio-Jo-o-Paulo/tree/main/projeto%20-%20criar%20-%20m%C3%BAsica%20-%20com%20-%20ia) |
+| Projeto site qr code | Replicamos um site no google AI studio, usei a idéia de um aplicativo QRCODE | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto%20%20site%20qr%20code) |
+| Projeto batalha de modelos | Testamos várias IAS e testamos a capacidade delas se baseando em tokens. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto%20batalha%20de%20modelos) |
+| Projeto treinamento de ia | Treinamos uma IA para Identificar quando um item está perto ou longe  | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto%20%20treinamento%20de%20ia) |
+| Projeto aplicativo mobile inspecionai | Utilizmos o Manus para criar um app mobile (O InspecionAI é uma ferramenta de suporte técnico e auditoria remota em tempo real.) | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/aplicativo%20inspecionai) |
 
 ---
 
-### 📊 Estatísticas GitHub
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaopaulo1211&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulo1211&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ### 🎯 Objetivos
 
@@ -82,4 +74,3 @@ Atualmente cursando o 2º semestre de Ciência da Computação na UNICID. Tenho 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
-](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto%20%20site%20qr%20code)
