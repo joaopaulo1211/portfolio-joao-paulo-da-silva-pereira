@@ -1,0 +1,7 @@
+1 : Uma aptidão essencial reside na perícia em criar modelos lógicos e interpretar sistemas com base em seu desempenho, já que, com o advento da IA, o engenheiro desloca seu foco da elaboração manual de código para a definição de normas, processos e pré-requisitos. Logo, mesmo que não tenha o código-fonte, ele deve conseguir deduzir a operação do sistema e apresentar soluções de modo organizado. Caso não possua tal destreza, o profissional se torna refém da IA e inapto para verificar ou ajustar suas saídas, caindo em desuso.
+
+
+
+2 :A aplicação de inteligência artificial na engenharia reversa cruza a linha tênue entre aprendizado e cópia quando ocorre uma reprodução significativa de um produto particular, abrangendo seus processos, estrutura e aspectos únicos, desprovida de uma modificação considerável. A questão central não reside na duplicação de características, mas sim na imitação integral da solução apresentada.
+
+Uma abordagem ética possível seria seguir o preceito da transformação imperativa, onde o emprego da IA deve resultar em alterações evidentes na organização, vivência do usuário ou na oferta de valor. Desse modo, resguarda-se a criação original, ao mesmo tempo em que se permite o aproveitamento das tecnologias generativas.
