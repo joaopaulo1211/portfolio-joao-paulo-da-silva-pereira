@@ -58,8 +58,8 @@ Atualmente cursando o 2º semestre de Ciência da Computação na UNICID. Tenho 
 | **SM4** | **Engenharia Reversa:** Análise de estruturas sistêmicas para compreensão e reconstrução lógica. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-engenharia-reversa) |
 | **SM5** | **Do Clone ao Produto Mínimo Viável (MVP+):** Aplicação integrada ao Google AI Studio para geração dinâmica de dados. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-do-clone-ao-produto-m%C3%ADnimo-vi%C3%A1vel) |
 | **SM6** | **Delivery App (Bubble):** Desenvolvimento no-code de uma plataforma de delivery com serviços inteligentes. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-inspecionai-mobile) |
-| **SM7** | **InspecionAI Mobile:** Ferramenta mobile de auditoria técnica utilizando agentes de IA (Manus AI). | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/projeto-aplicativo-inspecionai) |
-| **SM8** | **Composição Suno AI:** Exploração de prompts musicais para criação de áudio harmônico. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/projeto-musica-suno) |
+| **SM7** | **InspecionAI Mobile:** Ferramenta mobile de auditoria técnica utilizando agentes de IA (Manus AI). | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-inspecionai-mobile/projeto%20aplicativo%20inspecionai) |
+| **SM8** | **Composição Suno AI:** Exploração de prompts musicais para criação de áudio harmônico. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-composicao-sumo-ai) |
 
 ---
 
