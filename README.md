@@ -47,7 +47,7 @@ Atualmente cursando o 2º semestre de Ciência da Computação na UNICID. Tenho 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | Entregue | Modelagem e scripts SQL desenvolvidos durante o curso. | — |
-| Artefato - 01 | Descrição | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/projeto-modelagem-de-banco-de-dados) |
+| Artefato - 01 | Descrição | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-modelagem-de-banco-de-dados) |
 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
