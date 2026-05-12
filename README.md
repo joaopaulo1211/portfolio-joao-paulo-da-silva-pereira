@@ -49,16 +49,17 @@ Atualmente cursando o 2º semestre de Ciência da Computação na UNICID. Tenho 
 | Entregue | Modelagem e scripts SQL desenvolvidos durante o curso. | — |
 | Artefato - 01 | Descrição | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/projeto-modelagem-de-banco-de-dados) |
 
-## 🤖 Inteligência Artificial
-
+#### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| Projeto Bubble — Aplicativo de Delivery | Fiz um aplicativo de delivery usando o Bubble. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/blob/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto%20%20bubble%20%20aplicativo%20%20de%20%20delivery/README.md) |
-| Projeto Site QR Code | Replicamos um site no Google AI Studio usando a ideia de um aplicativo de QR Code. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto%20%20site%20qr%20code) |
-| Projeto Batalha de Modelos | Testamos várias IAs e avaliamos a capacidade delas com base em tokens. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto%20batalha%20de%20modelos) |
-| Projeto Treinamento de IA | Treinamos uma IA para identificar quando um item está perto ou longe. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/projeto%20%20treinamento%20de%20ia) |
-| Projeto Aplicativo Mobile InspecionAI | Utilizamos o Manus para criar um app mobile de suporte técnico e auditoria remota em tempo real. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/aplicativo%20inspecionai) |
-| Projeto  Criar Música no Suno | Utilizamos o Suno para criar músicas. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/engenhariadeprompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/aplicativo%20inspecionai) |
+| **SM1** | **A Corrida do Prompt:** Análise de técnicas de prompting e otimização de instruções para modelos de linguagem. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/projeto-corrida-do-prompt) |
+| **SM2** | **Classificação Visual com IA:** Treinamento de modelos para classificação automática de imagens. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/projeto-treinamento-ia) |
+| **SM3** | **Batalha de Modelos:** Comparação entre diferentes LLMs (GPT, Claude, Gemini) via engenharia de prompt. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/projeto-batalha-modelos) |
+| **SM4** | **Engenharia Reversa:** Análise de estruturas sistêmicas para compreensão e reconstrução lógica. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/projeto-engenharia-reversa) |
+| **SM5** | **MVP+ com QR Code:** Aplicação integrada ao Google AI Studio para geração dinâmica de dados. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/projeto-site-qr-code) |
+| **SM6** | **Delivery App (Bubble):** Desenvolvimento no-code de uma plataforma de delivery com serviços inteligentes. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/projeto-bubble-delivery) |
+| **SM7** | **InspecionAI Mobile:** Ferramenta mobile de auditoria técnica utilizando agentes de IA (Manus AI). | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/projeto-aplicativo-inspecionai) |
+| **SM8** | **Composição Suno AI:** Exploração de prompts musicais para criação de áudio harmônico. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/projeto-musica-suno) |
 
 ---
 
