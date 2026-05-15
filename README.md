@@ -1,4 +1,3 @@
-
 # João Paulo Silva Pereira
 > Estudante de Ciência da Computação — UNICID
 
@@ -9,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopauloprofissional/)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopaulo1211silva@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaopaulo1211)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](REPLACE_WITH_YOUR_PDF_LINK)
 
 ---
 
@@ -41,35 +41,40 @@ Atualmente cursando o 2º semestre de Ciência da Computação na UNICID. Tenho 
 
 ### 📂 Portfólio de Projetos
 
-> 🚧 Portfólio em construção — projetos serão adicionados ao longo do curso.
-
 #### 🗃️ Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| Entregue | Modelagem e scripts SQL desenvolvidos durante o curso. | — |
-| Artefato - 01 | Descrição | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-modelagem-de-banco-de-dados) |
+| **Artefato 01** | Modelagem e scripts SQL desenvolvidos para estruturação de dados relacionais. | [Ver Projeto](./projeto-modelagem-de-banco-de-dados) |
 
-#### 🤖 Inteligência Artificial
+#### 🤖 Inteligência Artificial (Trilha Integradora)
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM1** | **A Corrida do Prompt:** Análise de técnicas de prompting e otimização de instruções para modelos de linguagem. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-a-corrida-do-prompt) |
-| **SM2** | **Classificação Visual com IA:** Treinamento de modelos para classificação automática de imagens. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-classifica%C3%A7%C3%A3o-visual-com-ai) |
-| **SM3** | **Batalha de Modelos:** Comparação entre diferentes LLMs (GPT, Claude, Gemini) via engenharia de prompt. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-batalha-de-modelos) |
-| **SM4** | **Engenharia Reversa:** Análise de estruturas sistêmicas para compreensão e reconstrução lógica. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-engenharia-reversa) |
-| **SM5** | **Do Clone ao Produto Mínimo Viável (MVP+):** Aplicação integrada ao Google AI Studio para geração dinâmica de dados. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-do-clone-ao-produto-m%C3%ADnimo-vi%C3%A1vel) |
-| **SM6** | **Delivery App (Bubble):** Desenvolvimento no-code de uma plataforma de delivery com serviços inteligentes. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-inspecionai-mobile) |
-| **SM7** | **InspecionAI Mobile:** Ferramenta mobile de auditoria técnica utilizando agentes de IA (Manus AI). | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-inspecionai-mobile/projeto%20aplicativo%20inspecionai) |
-| **SM8** | **Composição Suno AI:** Exploração de prompts musicais para criação de áudio harmônico. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-composicao-sumo-ai) |
+| **SM1** | **A Corrida do Prompt:** Análise de técnicas de prompting e otimização de instruções para LLMs. | [Ver Projeto](./projeto-a-corrida-do-prompt) |
+| **SM2** | **Classificação Visual com IA:** Treinamento de modelos para classificação automática de imagens. | [Ver Projeto](./projeto-classificacao-visual-com-ai) |
+| **SM3** | **Batalha de Modelos:** Comparação técnica entre LLMs (GPT, Claude, Gemini) via engenharia de prompt. | [Ver Projeto](./projeto-batalha-de-modelos) |
+| **SM4** | **Engenharia Reversa:** Análise de estruturas sistêmicas para compreensão e reconstrução lógica. | [Ver Projeto](./projeto-engenharia-reversa) |
+| **SM5** | **MVP+ (Google AI Studio):** Aplicação integrada para geração dinâmica de dados e prototipagem rápida. | [Ver Projeto](./projeto-do-clone-ao-produto-minimo-viavel) |
+| **SM6** | **Delivery App (No-Code):** Desenvolvimento de plataforma de delivery com integração de serviços inteligentes. | [Ver Projeto](./projeto-inspecionai-mobile) |
+| **SM7** | **InspecionAI Mobile:** Ferramenta de auditoria técnica utilizando agentes autônomos de IA. | [Ver Projeto](./projeto-inspecionai-mobile/projeto-aplicativo-inspecionai) |
+| **SM8** | **Composição Suno AI:** Exploração de prompts musicais para criação de áudio harmônico generativo. | [Ver Projeto](./projeto-composicao-suno-ai) |
 
 ---
 
+### 🏗️ Estrutura do Repositório
+
+A organização do repositório segue o padrão acadêmico para facilitar a auditoria técnica:
+
+- `root/`: README principal com a apresentação do portfólio.
+- `/projeto-x/`: Pastas individuais para cada projeto, contendo código-fonte e documentação específica.
+
+---
 
 ### 🎯 Objetivos
 
-- 💼 Conquistar minha **primeira experiência profissional** por meio de um estágio em tecnologia
-- 🛠️ Desenvolver projetos práticos para construir um **portfólio sólido**
-- 📐 Aprofundar conhecimentos em **algoritmos, estruturas de dados e boas práticas**
-- 🌍 Aprimorar o **inglês técnico** para atuar em ambientes globais
+- 💼 Conquistar minha **primeira experiência profissional** por meio de um estágio em tecnologia.
+- 🛠️ Desenvolver projetos práticos para construir um **portfólio sólido**.
+- 📐 Aprofundar conhecimentos em **algoritmos e boas práticas (Clean Code)**.
+- 🌍 Aprimorar o **inglês técnico** para atuação em cenários globais.
 
 ---
 
