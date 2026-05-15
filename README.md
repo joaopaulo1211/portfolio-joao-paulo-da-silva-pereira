@@ -1,5 +1,5 @@
-# João Paulo Silva Pereira
-> [cite_start]Estudante de Ciência da Computação — UNICID [cite: 114]
+# João Paulo da Silva Pereira
+> Estudante de Ciência da Computação — UNICID
 
 ---
 
@@ -19,19 +19,20 @@
     <img src="https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Currículo">
   </a>
 </p>
+
 ---
 
 ### 👨‍💻 Sobre
 
-Atualmente cursando o **2º semestre de Ciência da Computação na UNICID**. [cite_start]Desenvolvo soluções tecnológicas com foco em **arquitetura de software** e **otimização de banco de dados relacionais**[cite: 25, 26, 147].
+Atualmente cursando o **2º semestre de Ciência da Computação na UNICID**. Desenvolvo soluções tecnológicas com foco em **arquitetura de software** e **otimização de banco de dados relacionais**.
 
-* [cite_start]**Habilidades Técnicas:** Python (Automação e Dados), SQL (MySQL), C++, Engenharia de Prompt e Versionamento com Git[cite: 29].
-* [cite_start]**Habilidades Socioemocionais:** Comunicação assertiva, resolução de problemas e pensamento analítico[cite: 30].
-* [cite_start]**Objetivo Profissional:** Atuar em ambientes que exijam rigor técnico, buscando a primeira oportunidade de estágio para aplicar conhecimentos de lógica e estruturas sistêmicas[cite: 32].
+* **Habilidades Técnicas:** Python (Automação e Dados), SQL (MySQL), C++, Engenharia de Prompt e Versionamento com Git.
+* **Habilidades Socioemocionais:** Comunicação assertiva, resolução de problemas e pensamento analítico.
+* **Objetivo Profissional:** Atuar em ambientes que exijam rigor técnico, buscando a primeira oportunidade de estágio para aplicar conhecimentos de lógica e estruturas sistêmicas.
 
 ---
 
-### [cite_start]🛠 Minhas Ferramentas Favoritas [cite: 116]
+### 🛠 Minhas Ferramentas Favoritas
 
 #### Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -48,36 +49,27 @@ Atualmente cursando o **2º semestre de Ciência da Computação na UNICID**. [c
 
 ---
 
-### [cite_start]📂 Portfólio de Projetos [cite: 117]
+### 📂 Portfólio de Projetos
 
 #### 🗃️ Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Modelagem Relacional** | Scripts SQL e diagramas ER para estruturação de dados de alta integridade. | [Ver Projeto](./projeto-modelagem-de-banco-de-dados) |
+| **Modelagem Relacional** | Scripts SQL e diagramas ER para estruturação de dados de alta integridade. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-modelagem-de-banco-de-dados) |
 
 #### 🤖 Inteligência Artificial & Engenharia de Prompt
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **SM1 - A Corrida do Prompt** | Otimização de instruções para LLMs focada em redução de alucinações. | [Ver Projeto](./projeto-a-corrida-do-prompt) |
-| **SM2 - Classificação Visual** | Treinamento de modelos para reconhecimento e categorização automática de ativos. | [Ver Projeto](./projeto-classificacao-visual-com-ai) |
-| **SM3 - Batalha de Modelos** | Benchmarking técnico entre GPT, Claude e Gemini para análise de performance. | [Ver Projeto](./projeto-batalha-de-modelos) |
-| **SM4 - Engenharia Reversa** | Desconstrução e análise de lógica sistêmica para reconstrução de fluxos. | [Ver Projeto](./projeto-engenharia-reversa) |
-| **SM5 - MVP+ (Google AI Studio)** | Prototipagem funcional integrada via API para geração de dados sintéticos. | [Ver Projeto](./projeto-do-clone-ao-produto-minimo-viavel) |
-| **SM6 - Delivery App (Bubble)** | Desenvolvimento No-Code de plataforma logística com serviços inteligentes. | [Ver Projeto](./projeto-delivery-app-bubble) |
-| **SM7 - InspecionAI Mobile** | Agentes autônomos aplicados à auditoria técnica em dispositivos móveis. | [Ver Projeto](./projeto-inspecionai-mobile) |
-| **SM8 - Composição Generativa** | Exploração de IA generativa para criação harmônica de áudio e música. | [Ver Projeto](./projeto-composicao-sumo-ai) |
+| **SM1 - A Corrida do Prompt** | Otimização de instruções para LLMs focada em redução de alucinações. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-a-corrida-do-prompt) |
+| **SM2 - Classificação Visual** | Treinamento de modelos para reconhecimento e categorização automática de ativos. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-classifica%C3%A7%C3%A3o-visual-com-ai) |
+| **SM3 - Batalha de Modelos** | Benchmarking técnico entre GPT, Claude e Gemini para análise de performance. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-batalha-de-modelos) |
+| **SM4 - Engenharia Reversa** | Desconstrução e análise de lógica sistêmica para reconstrução de fluxos. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-engenharia-reversa) |
+| **SM5 - MVP+ (Google AI Studio)** | Prototipagem functional integrada via API para geração de dados sintéticos. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-do-clone-ao-produto-m%C3%ADnimo-vi%C3%A1vel) |
+| **SM6 - Delivery App (Bubble)** | Desenvolvimento No-Code de plataforma logística com serviços inteligentes. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-delivery-app-bubble) |
+| **SM7 - InspecionAI Mobile** | Agentes autônomos aplicados à auditoria técnica em dispositivos móveis. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-inspecionai-mobile) |
+| **SM8 - Composição Generativa** | Explorando IA generativa para criação harmônica de áudio e música. | [Ver Projeto](https://github.com/joaopaulo1211/portfolio-joao-paulo-da-silva-pereira/tree/main/portfolio-joao-paulo-da-silva-pereira-raiz/projeto-composicao-sumo-ai) |
 
 ---
 
-### [cite_start]🏗️ Estrutura do Repositório [cite: 49, 50]
+### 🏗️ Estrutura do Repositório
 
 A organização segue os padrões de engenharia de software para garantir a reprodutibilidade técnica:
-
-* [cite_start]**root/**: Documentação principal e visão geral do portfólio[cite: 51].
-* [cite_start]**/projeto-[nome]/**: Diretórios contendo código-fonte, imagens e READMEs específicos de cada entrega acadêmica[cite: 52].
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-</p>
