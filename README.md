@@ -5,11 +5,20 @@
 
 ### 📫 Contato & Redes Sociais
 
-[cite_start][![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopauloprofissional/) 
-[cite_start][![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopaulo1211silva@gmail.com) 
-[cite_start][![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaopaulo1211) 
-[cite_start][![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_SEU_CURRICULO_EM_PDF) 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaopauloprofissional/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:joaopaulo1211silva@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+  <a href="https://github.com/joaopaulo1211">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="LINK_DO_SEU_CURRICULO_AQUI">
+    <img src="https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Currículo">
+  </a>
+</p>
 ---
 
 ### 👨‍💻 Sobre
